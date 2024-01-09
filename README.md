@@ -3,6 +3,8 @@
 
 Pure Java implementation of libzmq (http://zeromq.org).
 
+
+[![参考文档](https://circleci.com/gh/zeromq/jeromq.svg?style=svg)](https://gitee.com/solym/ZeroMQ-Guide-Zh)
 [![CircleCI](https://circleci.com/gh/zeromq/jeromq.svg?style=svg)](https://circleci.com/gh/zeromq/jeromq)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=zeromq_jeromq&metric=alert_status)](https://sonarcloud.io/dashboard?id=zeromq_jeromq)
 [![Coverage Status](https://coveralls.io/repos/github/zeromq/jeromq/badge.svg?branch=master)](https://coveralls.io/github/zeromq/jeromq?branch=master)
